@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "app": "ts-node src/app.ts"
+  },
+  "dependencies": {
+    "@google-cloud/vision": "^2.4.2",
+    "dotenv": "^16.0.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "ts-node": "^10.7.0"
+  }
+}
